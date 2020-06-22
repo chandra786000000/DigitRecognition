@@ -1,8 +1,8 @@
 # speech-processing
-Wavelet Transform Based Digit Recognition System 
-Built Using PyWavelet
+Wavelet Transform Based Digit Recognition System. 
+Built Using PyWavelet.
 It uses energy of signal in small sized frequency bands 
-Such as
+Such as.
 0Hz- 500Hz
 500Hz-1000Hz
 1000Hz-1500Hz
